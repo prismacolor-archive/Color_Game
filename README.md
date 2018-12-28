@@ -1,2 +1,2 @@
 # Color_Game
-A color picker game
+The user must try to guess the color displayed by the computer. 
